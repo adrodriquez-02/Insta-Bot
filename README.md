@@ -1,0 +1,1 @@
+This project is a Python script developed in PyCharm that downloads an Instagram user’s profile picture by entering their username. It uses automation to access and save profile data. The library used is instaloader for interacting with Instagram
